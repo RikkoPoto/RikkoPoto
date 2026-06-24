@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="./README-es.md">🇪🇸/🇨🇱 Español</a> | 🇬🇧 English
+  <a href="./README-es.md">🇪🇸/🇨🇱 Español</a> | <a href="./README.md">🇬🇧 English
 </div>
 <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/4.0.0/uicons-regular-rounded/css/uicons-regular-rounded.css'>
 <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/4.0.0/uicons-regular-chubby/css/uicons-regular-chubby.css'>
@@ -37,5 +37,5 @@ Here are the languages and tools I work with and continue to learn:
 
 <div align="center">
   <!-- Reemplaza TU_USUARIO por tu nombre de usuario de GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RikkoPoto&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
 </div>
