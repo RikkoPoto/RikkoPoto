@@ -37,4 +37,9 @@ Here are the languages and tools I work with and continue to learn:
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
