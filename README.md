@@ -1,13 +1,9 @@
 <div align="right">
   <a href="./README-es.md">🇪🇸/🇨🇱 Español</a> | <a href="./README.md">🇬🇧 English
 </div>
-<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/4.0.0/uicons-regular-rounded/css/uicons-regular-rounded.css'>
-<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/4.0.0/uicons-regular-chubby/css/uicons-regular-chubby.css'>
-<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/4.0.0/uicons-bold-straight/css/uicons-bold-straight.css'>
-<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/4.0.0/uicons-thin-rounded/css/uicons-thin-rounded.css'>
 
-# Hi! I'm RikkoPoto <i class="fi fi-rc-hand-wave"></i>
-## Beginner Dev <i class="fi fi-bs-rocket-lunch"></i>
+# Hi! I'm RikkoPoto 
+## Beginner Dev 
 
 Welcome to my GitHub profile! I'm a developer in training, always looking to learn something new and improve my programming skills. 
 
@@ -16,7 +12,7 @@ Welcome to my GitHub profile! I'm a developer in training, always looking to lea
 
 ---
 
-### <i class="fi fi-tr-display-code"></i> Tech Stack
+###  Tech Stack
 
 Here are the languages and tools I work with and continue to learn:
 
@@ -33,7 +29,7 @@ Here are the languages and tools I work with and continue to learn:
 
 ---
 
-### <i class="fi fi-rr-chat-arrow-grow"></i> GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <!-- Reemplaza TU_USUARIO por tu nombre de usuario de GitHub -->
