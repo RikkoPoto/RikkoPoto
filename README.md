@@ -5,6 +5,10 @@
 # Hi! I'm RikkoPoto 
 ## Beginner Dev 
 
+<p align="left">
+    <a href="https://discordapp.com/users/806375512963285052" target="_blank"><img src="https://img.shields.io/badge/RikkoPoto-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="RikkoPoto" /></a>
+</p>
+
 Welcome to my GitHub profile! I'm a developer in training, always looking to learn something new and improve my programming skills. 
 
  Currently studying **Software Engineer at INACAP**.  
@@ -12,7 +16,7 @@ Welcome to my GitHub profile! I'm a developer in training, always looking to lea
 
 ---
 
-###  Tech Stack
+## 🛠️ Languages & Tools
 
 Here are the languages and tools I work with and continue to learn:
 
@@ -29,17 +33,8 @@ Here are the languages and tools I work with and continue to learn:
 
 ---
 
-###  GitHub Stats
-
 <div align="center">
-  <!-- Reemplaza TU_USUARIO por tu nombre de usuario de GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RikkoPoto&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
-</div>
-
----
-
-<div align="center">
-    <h2>📖 Stats</h2>
+    <h2>📖 GitHub Stats</h2>
     <img src="https://github-readme-stats-lemon-seven-41.vercel.app/api?username=RikkoPoto&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=RikkoPoto&theme=dark" />
     <a href="https://wakatime.com/@RikkoPoto" target="_blank">
