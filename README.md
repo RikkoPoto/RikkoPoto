@@ -36,10 +36,13 @@ Here are the languages and tools I work with and continue to learn:
   <img src="https://github-readme-stats.vercel.app/api?username=RikkoPoto&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
 </div>
 
-<!--START_SECTION:waka-->
+---
 
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<div align="center">
+    <h2>📖 Stats</h2>
+    <img src="https://github-readme-stats-lemon-seven-41.vercel.app/api?username=RikkoPoto&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=RikkoPoto&theme=dark" />
+    <a href="https://wakatime.com/@RikkoPoto" target="_blank">
+	    <img src="https://github-readme-stats-lemon-seven-41.vercel.app/api/wakatime?username=RikkoPoto&theme=dark&layout=compact&border_radius=5px&custom_title=JustEvil%27s%20Stats">
+    </a>
+</div>
