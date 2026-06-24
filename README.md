@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="./README-es.md">🇪🇸/🇨🇱 Español</a> | <a href="./README.md">🇬🇧 English
+  <a href="./README-es.md">🇪🇸/🇨🇱 Español</a> | 🇬🇧 English
 </div>
 
 # Hi! I'm RikkoPoto 
