@@ -8,11 +8,11 @@
   Hi! I'm RikkoPoto, a Beginner Dev and hobbyist who loves creating Discord bots in Python. I have a strong interest in diving into cybersecurity. Currently, I'm learning <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat" /> and <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" /> to perform pentesting. In my free time, I enjoy developing various software projects and building websites.
 
 </p>
----
+## Social Links
 <p align="left">
     <a href="https://discordapp.com/users/806375512963285052" target="_blank"><img src="https://img.shields.io/badge/RikkoPoto-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="RikkoPoto" /></a>
 </p>
----
+
 
 ## 🛠️ Languages & Tools
 
