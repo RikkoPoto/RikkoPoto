@@ -13,12 +13,6 @@
     <a href="https://discordapp.com/users/806375512963285052" target="_blank"><img src="https://img.shields.io/badge/RikkoPoto-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="RikkoPoto" /></a>
 </p>
 ---
-Welcome to my GitHub profile! I'm a developer in training, always looking to learn something new and improve my programming skills. 
-
- Currently studying **Software Engineer at INACAP**.  
- Interested in software development, creating applications, and exploring new technologies.
-
----
 
 ## 🛠️ Languages & Tools
 
