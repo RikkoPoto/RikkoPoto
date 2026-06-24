@@ -51,7 +51,9 @@ Here are the languages ​​and tools that I am just learning and don't yet use
 <div align="center">
     <h2>📖 GitHub Stats</h2>
 	<br>
-    <img src="https://github-readme-stats-lemon-seven-41.vercel.app/api?username=RikkoPoto&theme=dark" />
+    <img src="https://github-readme-stats-lemon-seven-41.vercel.app/api?username=RikkoPoto&theme=synthwave" />
+    <img src="https://streak-stats.demolab.com?user=RikkoPoto&theme=synthwave" />
 	<br>
-    <img src="https://streak-stats.demolab.com?user=RikkoPoto&theme=dark" />
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RikkoPoto&theme=synthwave&layout=compact&border_radius=5px&custom_title=RikkoPoto%27s%20Stats" />
+
 </div>
