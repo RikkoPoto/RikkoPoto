@@ -35,3 +35,6 @@ Here are the languages and tools I work with and continue to learn:
   <!-- Reemplaza TU_USUARIO por tu nombre de usuario de GitHub -->
   <img src="https://github-readme-stats.vercel.app/api?username=RikkoPoto&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

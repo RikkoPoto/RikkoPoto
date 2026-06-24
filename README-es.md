@@ -34,3 +34,6 @@ Aquí tienes los lenguajes y tecnologías con los que trabajo y sigo aprendiendo
   <!-- Reemplaza TU_USUARIO por tu nombre de usuario de GitHub -->
   <img src="https://github-readme-stats.vercel.app/api?username=RikkoPoto&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
