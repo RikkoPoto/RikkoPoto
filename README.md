@@ -9,6 +9,7 @@
 
 </p>
 ## Social Links
+
 <p align="left">
     <a href="https://discordapp.com/users/806375512963285052" target="_blank"><img src="https://img.shields.io/badge/RikkoPoto-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="RikkoPoto" /></a>
 </p>
