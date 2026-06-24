@@ -1,3 +1,6 @@
+<div align="right">
+  🇪🇸/🇨🇱 Español</a> |  <a href="./README.md">🇬🇧 English
+</div>
 # ¡Hola! Soy RikkoPoto 
 ## Beginner Dev 
 
