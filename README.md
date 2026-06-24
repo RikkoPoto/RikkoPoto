@@ -7,7 +7,7 @@
 
 Welcome to my GitHub profile! I'm a developer in training, always looking to learn something new and improve my programming skills. 
 
- Currently studying **Informatics Engineering at INACAP**.  
+ Currently studying **Software Engineer at INACAP**.  
  Interested in software development, creating applications, and exploring new technologies.
 
 ---
