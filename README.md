@@ -1,6 +1,6 @@
 <div align="center">
 	<h2> Hi! Nice To meet you </h2>
-	<img width="100%" src="https://imgur.com/a/u54JSVU" alt="RikkoPoto"/>
+	<img width="100%" src="https://i.imgur.com/mMTeVZC.png" alt="RikkoPoto"/>
 </div>
 <br>
 
